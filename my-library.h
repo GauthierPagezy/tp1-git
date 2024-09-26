@@ -2,6 +2,4 @@
 ALLO EHN 
 
 DJJDJ
-
-modification conflit 2
-
+modification conflit
